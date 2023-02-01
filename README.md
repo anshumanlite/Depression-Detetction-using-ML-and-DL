@@ -7,6 +7,7 @@ Depression is a mood disorder that causes a feeling of sadness and loss of inter
 Depression is a serious sickness which is very common among teenagers and adults. It is spreading rapidly by the use of  social media. It is one of the major reasons for suicide.
 Depression and mental illness are key problems in society nowadays. It can occur in people of all age group and can lead to other permanent diseases like anxiety disorders and heart problems
 In order to avoid this problem there is a need of a system to detect depression so that it can be prevented.
+
 ![image](https://user-images.githubusercontent.com/72924364/215959815-38b2069e-a7bd-42fb-b108-426b75b3355d.png)
 
 
